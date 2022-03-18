@@ -1,0 +1,1202 @@
+[
+	{
+        "name": "ICE 695",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T00:11",
+        "origin": "Berlin Gesundbrunnen",
+        "track": "2",
+        "detailsId": "382557%2F140130%2F716166%2F230564%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 618",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T01:15",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "296856%2F110400%2F727454%2F264775%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 616",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T04:37",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "330423%2F121495%2F742300%2F261009%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 619",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T04:40",
+        "origin": "Dortmund Hbf",
+        "track": "2",
+        "detailsId": "179952%2F71465%2F318054%2F99043%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 699",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T06:10",
+        "origin": "Hamburg-Altona",
+        "track": "2",
+        "detailsId": "932823%2F323665%2F637570%2F7844%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 614",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T06:47",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "496197%2F176661%2F705352%2F187277%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2291",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T06:53",
+        "origin": "Karlsruhe Hbf",
+        "track": "2",
+        "detailsId": "267132%2F95890%2F378812%2F100362%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2296",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T06:56",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "973161%2F331264%2F416616%2F116079%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 692",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T07:47",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "955200%2F330940%2F551892%2F42454%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 993",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T07:54",
+        "origin": "Stuttgart Hbf",
+        "track": "2",
+        "detailsId": "153729%2F67822%2F737346%2F317430%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 991",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T08:22",
+        "origin": "Wiesbaden Hbf",
+        "track": "2",
+        "detailsId": "899616%2F316446%2F526440%2F36652%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 612",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T08:47",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "532584%2F188733%2F867846%2F256395%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 511",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T09:13",
+        "origin": "Köln Hbf",
+        "track": "2",
+        "detailsId": "289698%2F105691%2F810988%2F308928%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 690",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T09:47",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "224763%2F87408%2F630406%2F240282%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 591",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T10:15",
+        "origin": "Hamburg-Altona",
+        "track": "2",
+        "detailsId": "772557%2F268329%2F306098%2F104470%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 610",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T10:46",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "987009%2F340161%2F466632%2F95687%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "EC 113",
+        "type": "EC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T10:49",
+        "origin": "Frankfurt\u0026#x0028;Main\u0026#x0029;Hbf",
+        "track": "2",
+        "detailsId": "568380%2F206371%2F525910%2F73495%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 513",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T11:15",
+        "origin": "Münster\u0026#x0028;Westf\u0026#x0029;Hbf",
+        "track": "2",
+        "detailsId": "285873%2F104455%2F602280%2F205849%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 598",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T11:47",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "436818%2F156627%2F339534%2F24161%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 593",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T12:15",
+        "origin": "Berlin Gesundbrunnen",
+        "track": "2",
+        "detailsId": "916017%2F316215%2F914920%2F152121%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 618",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T01:15",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "450921%2F161755%2F550392%2F124889%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 616",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T04:37",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "935925%2F323320%2F2120%2F310915%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 619",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T04:40",
+        "origin": "Dortmund Hbf",
+        "track": "2",
+        "detailsId": "114927%2F49790%2F788738%2F356060%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 699",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T06:10",
+        "origin": "Hamburg-Altona",
+        "track": "2",
+        "detailsId": "253014%2F97062%2F226770%2F29047%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 614",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T06:47",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "983952%2F339243%2F753722%2F48877%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2291",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T06:53",
+        "origin": "Karlsruhe Hbf",
+        "track": "2",
+        "detailsId": "425793%2F148777%2F544318%2F130228%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2296",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T06:56",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "529710%2F183444%2F116714%2F118213%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2366",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T07:36",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "168372%2F63327%2F961204%2F424478%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 692",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T07:47",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "508188%2F181930%2F738838%2F200023%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 993",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T07:54",
+        "origin": "Stuttgart Hbf",
+        "track": "2",
+        "detailsId": "513042%2F187593%2F462096%2F60034%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 991",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T08:10",
+        "origin": "Wiesbaden Hbf",
+        "track": "2",
+        "detailsId": "659583%2F236438%2F912832%2F236555%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 612",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T08:47",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "76800%2F36805%2F414740%2F181770%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "EC 217",
+        "type": "EC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T08:54",
+        "origin": "Saarbrücken Hbf",
+        "track": "2",
+        "detailsId": "178683%2F77298%2F931246%2F406062%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 1296",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T09:01",
+        "origin": "Salzburg Hbf",
+        "track": "1",
+        "detailsId": "296031%2F116003%2F194572%2F1391%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 511",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T09:10",
+        "origin": "Köln Hbf",
+        "track": "2",
+        "detailsId": "561444%2F196278%2F910506%2F268105%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 690",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T09:47",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "477966%2F171809%2F675638%2F178497%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 267",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T09:56",
+        "origin": "Basel SBB",
+        "track": "2",
+        "detailsId": "726363%2F250306%2F972694%2F244226%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 1298",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T10:01",
+        "origin": "Salzburg Hbf",
+        "track": "1",
+        "detailsId": "14805%2F22269%2F589468%2F289799%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 591",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T10:10",
+        "origin": "Hamburg-Altona",
+        "track": "2",
+        "detailsId": "177075%2F69837%2F847672%2F364811%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 610",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T10:46",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "720048%2F251174%2F442624%2F18704%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 616",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T04:37",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "77091%2F37052%2F340538%2F144572%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 619",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T04:45",
+        "origin": "Dortmund Hbf",
+        "track": "2",
+        "detailsId": "20043%2F18179%2F772552%2F379595%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 699",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T06:11",
+        "origin": "Hamburg-Altona",
+        "track": "2",
+        "detailsId": "16341%2F18174%2F679554%2F334330%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 614",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T06:47",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "87846%2F40544%2F532258%2F236847%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2291",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T06:53",
+        "origin": "Karlsruhe Hbf",
+        "track": "2",
+        "detailsId": "450231%2F156923%2F520030%2F109938%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2296",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T06:56",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "723936%2F248189%2F364980%2F58822%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2366",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T07:36",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "273351%2F98320%2F935064%2F376415%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 692",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T07:47",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "611739%2F216447%2F481576%2F36875%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 993",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T07:54",
+        "origin": "Stuttgart Hbf",
+        "track": "2",
+        "detailsId": "36963%2F28900%2F915846%2F445602%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 991",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T08:14",
+        "origin": "Wiesbaden Hbf",
+        "track": "2",
+        "detailsId": "527388%2F192369%2F988596%2F318502%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 612",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T08:47",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "6540%2F13392%2F792324%2F393982%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "EC 217",
+        "type": "EC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T08:54",
+        "origin": "Saarbrücken Hbf",
+        "track": "2",
+        "detailsId": "168624%2F73945%2F814954%2F351269%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 1296",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T09:01",
+        "origin": "Salzburg Hbf",
+        "track": "1",
+        "detailsId": "496911%2F182963%2F143684%2F93795%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 511",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T09:13",
+        "origin": "Köln Hbf",
+        "track": "2",
+        "detailsId": "105276%2F44217%2F906686%2F418251%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 690",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T09:47",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "883131%2F306864%2F908602%2F159924%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 267",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T10:00",
+        "origin": "Basel SBB",
+        "track": "2",
+        "detailsId": "640014%2F221524%2F644208%2F108766%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 1298",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T10:01",
+        "origin": "Salzburg Hbf",
+        "track": "1",
+        "detailsId": "904590%2F318864%2F803280%2F100110%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 591",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T10:14",
+        "origin": "Hamburg-Altona",
+        "track": "2",
+        "detailsId": "618981%2F217135%2F310278%2F51188%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 610",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T10:46",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "258930%2F97468%2F808784%2F318082%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "EC 113",
+        "type": "EC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T10:49",
+        "origin": "Frankfurt\u0026#x0028;Main\u0026#x0029;Hbf",
+        "track": "2",
+        "detailsId": "257523%2F102752%2F141306%2F15188%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 616",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T04:37",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "642453%2F225506%2F437722%2F4710%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 619",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T04:45",
+        "origin": "Dortmund Hbf",
+        "track": "2",
+        "detailsId": "184812%2F73102%2F233538%2F55165%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 699",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T06:11",
+        "origin": "Hamburg-Altona",
+        "track": "2",
+        "detailsId": "956706%2F331629%2F253572%2F192116%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 614",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T06:47",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "135060%2F56282%2F378308%2F144134%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2291",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T06:53",
+        "origin": "Karlsruhe Hbf",
+        "track": "2",
+        "detailsId": "264657%2F95065%2F734890%2F279226%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2296",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T06:56",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "304413%2F108348%2F804028%2F300543%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2366",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T07:36",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "936117%2F319242%2F580318%2F21880%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 692",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T07:47",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "525201%2F187601%2F649658%2F149762%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 993",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T07:54",
+        "origin": "Stuttgart Hbf",
+        "track": "2",
+        "detailsId": "123162%2F57633%2F376058%2F146975%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 991",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T08:14",
+        "origin": "Wiesbaden Hbf",
+        "track": "2",
+        "detailsId": "578370%2F209363%2F113052%2F136264%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 612",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T08:47",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "533451%2F189029%2F24922%2F165356%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "EC 217",
+        "type": "EC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T08:54",
+        "origin": "Saarbrücken Hbf",
+        "track": "2",
+        "detailsId": "681243%2F244818%2F323974%2F65094%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 1296",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T09:01",
+        "origin": "Salzburg Hbf",
+        "track": "1",
+        "detailsId": "50712%2F34230%2F789354%2F377773%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 511",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T09:13",
+        "origin": "Köln Hbf",
+        "track": "2",
+        "detailsId": "188142%2F71839%2F954902%2F414737%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 690",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T09:47",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "529212%2F188891%2F341146%2F5831%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 267",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T10:00",
+        "origin": "Basel SBB",
+        "track": "2",
+        "detailsId": "711153%2F245237%2F809832%2F167865%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 1298",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T10:01",
+        "origin": "Salzburg Hbf",
+        "track": "1",
+        "detailsId": "204219%2F85407%2F626462%2F245158%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 591",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T10:14",
+        "origin": "Hamburg-Altona",
+        "track": "2",
+        "detailsId": "560310%2F197578%2F776286%2F201373%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 610",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T10:46",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "316194%2F116556%2F161310%2F24743%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "EC 113",
+        "type": "EC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T10:49",
+        "origin": "Frankfurt\u0026#x0028;Main\u0026#x0029;Hbf",
+        "track": "2",
+        "detailsId": "227730%2F92821%2F84472%2F33674%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 616",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T04:37",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "451827%2F161964%2F727996%2F213389%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 619",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T04:45",
+        "origin": "Dortmund Hbf",
+        "track": "2",
+        "detailsId": "973515%2F336003%2F584336%2F32337%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 699",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T06:11",
+        "origin": "Hamburg-Altona",
+        "track": "2",
+        "detailsId": "261519%2F99900%2F675124%2F250389%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 614",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T06:47",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "225372%2F86386%2F975710%2F412731%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2291",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T06:53",
+        "origin": "Karlsruhe Hbf",
+        "track": "2",
+        "detailsId": "344163%2F121567%2F241772%2F6165%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2296",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T06:56",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "694578%2F238403%2F403746%2F29653%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2366",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T07:36",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "27699%2F16436%2F888680%2F435107%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 692",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T07:47",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "309960%2F115854%2F56392%2F75124%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 993",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T07:54",
+        "origin": "Stuttgart Hbf",
+        "track": "2",
+        "detailsId": "508065%2F185934%2F930352%2F295821%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 991",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T08:14",
+        "origin": "Wiesbaden Hbf",
+        "track": "2",
+        "detailsId": "25245%2F24988%2F294666%2F138918%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 612",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T08:47",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "614550%2F216062%2F71572%2F169064%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "EC 217",
+        "type": "EC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T08:54",
+        "origin": "Saarbrücken Hbf",
+        "track": "2",
+        "detailsId": "849315%2F300842%2F138016%2F214097%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 1296",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T09:01",
+        "origin": "Salzburg Hbf",
+        "track": "1",
+        "detailsId": "826053%2F292677%2F714514%2F81906%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 511",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T09:13",
+        "origin": "Köln Hbf",
+        "track": "2",
+        "detailsId": "339381%2F122252%2F472674%2F123210%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 690",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T09:47",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "477123%2F171528%2F895522%2F288720%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 267",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T10:00",
+        "origin": "Basel SBB",
+        "track": "2",
+        "detailsId": "479619%2F168059%2F622454%2F151354%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 1298",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T10:01",
+        "origin": "Salzburg Hbf",
+        "track": "1",
+        "detailsId": "969909%2F340637%2F305768%2F170419%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 591",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T10:14",
+        "origin": "Hamburg-Altona",
+        "track": "2",
+        "detailsId": "804282%2F278902%2F490718%2F22735%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 610",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T10:46",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "6333%2F13269%2F717346%2F356562%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "EC 113",
+        "type": "EC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T10:49",
+        "origin": "Frankfurt\u0026#x0028;Main\u0026#x0029;Hbf",
+        "track": "2",
+        "detailsId": "693954%2F248229%2F902138%2F219751%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 616",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T04:37",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "293961%2F109332%2F199484%2F1755%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 619",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T04:40",
+        "origin": "Dortmund Hbf",
+        "track": "1",
+        "detailsId": "586182%2F206875%2F707746%2F158479%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 699",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T06:10",
+        "origin": "Hamburg-Altona",
+        "track": "2",
+        "detailsId": "239589%2F92587%2F627968%2F234121%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 614",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T06:47",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "488802%2F174193%2F411532%2F42832%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2366",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T07:36",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "96429%2F39346%2F581480%2F258597%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 692",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T07:47",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "444825%2F160809%2F127070%2F84740%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "RJX 63",
+        "type": "RJX",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T07:54",
+        "origin": "Frankfurt\u0026#x0028;Main\u0026#x0029;Hbf",
+        "track": "2",
+        "detailsId": "410520%2F156427%2F461250%2F93785%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 612",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T08:47",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "521895%2F185177%2F430214%2F41142%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "EC 217",
+        "type": "EC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T08:54",
+        "origin": "Saarbrücken Hbf",
+        "track": "2",
+        "detailsId": "874380%2F309197%2F707392%2F62236%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 1296",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T09:01",
+        "origin": "Salzburg Hbf",
+        "track": "1",
+        "detailsId": "41946%2F31308%2F795302%2F383669%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 511",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T09:13",
+        "origin": "Köln Hbf",
+        "track": "2",
+        "detailsId": "289965%2F105780%2F718300%2F262495%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 690",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T09:47",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "586563%2F208008%2F628914%2F118936%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 267",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T10:00",
+        "origin": "Basel SBB",
+        "track": "2",
+        "detailsId": "706626%2F243728%2F974880%2F251898%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 1298",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T10:01",
+        "origin": "Salzburg Hbf",
+        "track": "1",
+        "detailsId": "875250%2F309084%2F897476%2F156988%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 591",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T10:14",
+        "origin": "Hamburg-Altona",
+        "track": "2",
+        "detailsId": "767898%2F266773%2F941558%2F214813%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 610",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T10:46",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "555369%2F196281%2F69986%2F150130%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "EC 113",
+        "type": "EC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T10:49",
+        "origin": "Frankfurt\u0026#x0028;Main\u0026#x0029;Hbf",
+        "track": "2",
+        "detailsId": "709572%2F253435%2F790714%2F158833%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 1290",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T11:01",
+        "origin": "Salzburg Hbf",
+        "track": "1",
+        "detailsId": "161865%2F71268%2F634572%2F263331%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 513",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T11:14",
+        "origin": "Münster\u0026#x0028;Westf\u0026#x0029;Hbf",
+        "track": "2",
+        "detailsId": "162609%2F63368%2F795822%2F343708%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 598",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T11:47",
+        "origin": "München Hbf",
+        "track": "1",
+        "detailsId": "63633%2F32232%2F175068%2F66323%2F80%3fstation_evaId%3D8000170"
+    }
+]

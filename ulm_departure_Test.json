@@ -1,0 +1,1082 @@
+[
+	{
+        "name": "ICE 695",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T00:14",
+        "track": "2",
+        "detailsId": "331491%2F123108%2F687778%2F233392%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 618",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T01:17",
+        "track": "1",
+        "detailsId": "47442%2F27262%2F204916%2F86644%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 616",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T04:41",
+        "track": "1",
+        "detailsId": "410400%2F148154%2F771128%2F248764%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 619",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T04:42",
+        "track": "2",
+        "detailsId": "679356%2F237933%2F96290%2F178307%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2368",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T06:10",
+        "track": "1",
+        "detailsId": "718641%2F246754%2F370946%2F54074%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 699",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T06:12",
+        "track": "2",
+        "detailsId": "914841%2F317671%2F493000%2F58447%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 614",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T06:52",
+        "track": "1",
+        "detailsId": "418341%2F150709%2F833874%2F277490%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2291",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T06:56",
+        "track": "2",
+        "detailsId": "345972%2F122170%2F734526%2F251939%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2296",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T07:01",
+        "track": "1",
+        "detailsId": "582489%2F201040%2F76954%2F155686%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2097",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T07:13",
+        "track": "3 Süd",
+        "detailsId": "691341%2F236114%2F135254%2F162820%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 692",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T07:53",
+        "track": "1",
+        "detailsId": "415341%2F150987%2F31242%2F122826%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 993",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T07:56",
+        "track": "2",
+        "detailsId": "130446%2F60061%2F333064%2F123050%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 991",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T08:24",
+        "track": "2",
+        "detailsId": "219696%2F89806%2F565480%2F209508%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 612",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T08:49",
+        "track": "1",
+        "detailsId": "382896%2F138837%2F206812%2F24226%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 511",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T09:15",
+        "track": "2",
+        "detailsId": "967566%2F331647%2F839366%2F97161%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 690",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T09:49",
+        "track": "1",
+        "detailsId": "373911%2F137124%2F228276%2F10499%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 591",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T10:17",
+        "track": "2",
+        "detailsId": "784323%2F272251%2F617740%2F47429%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 610",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T10:48",
+        "track": "1",
+        "detailsId": "146886%2F60120%2F492570%2F197323%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "EC 113",
+        "type": "EC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T10:56",
+        "track": "2",
+        "detailsId": "115923%2F55552%2F580900%2F251809%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 513",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-01T11:17",
+        "track": "2",
+        "detailsId": "879981%2F302491%2F587052%2F199%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 618",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T01:17",
+        "track": "1",
+        "detailsId": "770319%2F268221%2F12834%2F250356%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 616",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T04:39",
+        "track": "1",
+        "detailsId": "339969%2F124668%2F163856%2F31395%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 619",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T04:42",
+        "track": "2",
+        "detailsId": "861021%2F298488%2F547252%2F13381%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 699",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T06:12",
+        "track": "2",
+        "detailsId": "747903%2F262025%2F180262%2F159170%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 614",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T06:49",
+        "track": "1",
+        "detailsId": "453294%2F162357%2F416216%2F57010%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2291",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T06:56",
+        "track": "2",
+        "detailsId": "258567%2F93035%2F638202%2F232912%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2296",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T06:58",
+        "track": "1",
+        "detailsId": "174822%2F65148%2F972580%2F428016%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2097",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T07:13",
+        "track": "25",
+        "detailsId": "130230%2F49077%2F628114%2F270647%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2366",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T07:38",
+        "track": "1",
+        "detailsId": "153516%2F58375%2F992840%2F445248%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 692",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T07:49",
+        "track": "1",
+        "detailsId": "332946%2F123516%2F528804%2F153420%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 993",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T07:56",
+        "track": "2",
+        "detailsId": "821835%2F290524%2F242724%2F152583%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 991",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T08:12",
+        "track": "2",
+        "detailsId": "709443%2F253058%2F152270%2F160346%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 612",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T08:49",
+        "track": "1",
+        "detailsId": "807297%2F280304%2F990286%2F226044%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "EC 217",
+        "type": "EC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T08:56",
+        "track": "2",
+        "detailsId": "917187%2F323466%2F594446%2F8506%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 1296",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T09:03",
+        "track": "1",
+        "detailsId": "398688%2F150222%2F639274%2F186741%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 511",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T09:12",
+        "track": "2",
+        "detailsId": "767238%2F264876%2F781082%2F134795%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 690",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T09:49",
+        "track": "1",
+        "detailsId": "972270%2F336577%2F407710%2F120235%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 267",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T09:58",
+        "track": "2",
+        "detailsId": "414339%2F146298%2F587686%2F155730%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 1298",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T10:03",
+        "track": "1",
+        "detailsId": "464700%2F172234%2F470164%2F80182%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 591",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-02T10:12",
+        "track": "2",
+        "detailsId": "683562%2F238666%2F973990%2F259141%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 616",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T04:44",
+        "track": "1",
+        "detailsId": "102369%2F45478%2F73492%2F2623%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 619",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T04:47",
+        "track": "2",
+        "detailsId": "55434%2F29976%2F312622%2F137833%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2368",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T06:01",
+        "track": "1",
+        "detailsId": "882024%2F301218%2F734980%2F73482%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 699",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T06:13",
+        "track": "2",
+        "detailsId": "989955%2F342712%2F469754%2F95108%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 614",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T06:52",
+        "track": "1",
+        "detailsId": "320718%2F118168%2F488792%2F137490%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2291",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T06:56",
+        "track": "2",
+        "detailsId": "416907%2F145815%2F331082%2F26572%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2296",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T07:01",
+        "track": "1",
+        "detailsId": "694536%2F238389%2F291458%2F85783%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2097",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T07:13",
+        "track": "25",
+        "detailsId": "406758%2F141253%2F50528%2F110322%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2366",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T07:38",
+        "track": "1",
+        "detailsId": "947994%2F323201%2F326542%2F152727%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 692",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T07:49",
+        "track": "1",
+        "detailsId": "150348%2F62650%2F978092%2F438930%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 993",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T07:56",
+        "track": "2",
+        "detailsId": "97509%2F49082%2F514642%2F224818%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 991",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T08:16",
+        "track": "2",
+        "detailsId": "160023%2F69914%2F226770%2F60044%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 612",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T08:52",
+        "track": "1",
+        "detailsId": "771453%2F268363%2F716772%2F101235%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "EC 217",
+        "type": "EC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T08:56",
+        "track": "2",
+        "detailsId": "242187%2F98466%2F594784%2F216663%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 1296",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T09:03",
+        "track": "1",
+        "detailsId": "521079%2F191019%2F994326%2F323470%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 511",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T09:15",
+        "track": "2",
+        "detailsId": "4917%2F10764%2F417770%2F207246%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 690",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T09:49",
+        "track": "1",
+        "detailsId": "598125%2F211862%2F44108%2F177321%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 267",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T10:02",
+        "track": "2",
+        "detailsId": "629964%2F218174%2F349254%2F35361%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 1298",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T10:03",
+        "track": "1",
+        "detailsId": "662235%2F238079%2F82026%2F179732%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 591",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-03T10:17",
+        "track": "2",
+        "detailsId": "222153%2F84859%2F687460%2F269679%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 616",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T04:44",
+        "track": "1",
+        "detailsId": "160770%2F64945%2F21124%2F43028%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 619",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T04:47",
+        "track": "2",
+        "detailsId": "537030%2F190508%2F917438%2F279709%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2368",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T06:01",
+        "track": "1",
+        "detailsId": "76674%2F32768%2F981046%2F464965%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 699",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T06:13",
+        "track": "2",
+        "detailsId": "800016%2F279399%2F452392%2F40476%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 614",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T06:52",
+        "track": "1",
+        "detailsId": "134796%2F56194%2F322622%2F116379%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2291",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T06:56",
+        "track": "2",
+        "detailsId": "396654%2F139064%2F497274%2F116419%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2296",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T07:01",
+        "track": "1",
+        "detailsId": "604035%2F208222%2F972628%2F284969%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2097",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T07:13",
+        "track": "25",
+        "detailsId": "437724%2F151575%2F310186%2F9185%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2366",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T07:38",
+        "track": "1",
+        "detailsId": "462921%2F161510%2F773944%2F232665%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 692",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T07:49",
+        "track": "1",
+        "detailsId": "70923%2F36175%2F517220%2F234969%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 993",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T07:56",
+        "track": "2",
+        "detailsId": "814521%2F288086%2F951870%2F204428%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 991",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T08:16",
+        "track": "2",
+        "detailsId": "27132%2F25617%2F275914%2F128913%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 612",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T08:52",
+        "track": "1",
+        "detailsId": "250986%2F94874%2F535460%2F184068%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "EC 217",
+        "type": "EC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T08:56",
+        "track": "2",
+        "detailsId": "894525%2F315912%2F524900%2F35725%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 1296",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T09:03",
+        "track": "1",
+        "detailsId": "482613%2F178197%2F402754%2F40506%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 511",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T09:15",
+        "track": "2",
+        "detailsId": "769044%2F265473%2F433178%2F39759%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 690",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T09:49",
+        "track": "1",
+        "detailsId": "170610%2F69357%2F874908%2F380584%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 267",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T10:02",
+        "track": "2",
+        "detailsId": "561816%2F195458%2F526978%2F76217%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 1298",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T10:03",
+        "track": "1",
+        "detailsId": "318129%2F123377%2F911924%2F349919%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 591",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-04T10:17",
+        "track": "2",
+        "detailsId": "5175%2F12533%2F305020%2F150785%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 616",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T04:44",
+        "track": "1",
+        "detailsId": "547350%2F193805%2F417676%2F26388%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 619",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T04:47",
+        "track": "2",
+        "detailsId": "154392%2F62962%2F693500%2F295286%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2368",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T06:01",
+        "track": "1",
+        "detailsId": "918897%2F313509%2F294462%2F159068%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 699",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T06:13",
+        "track": "2",
+        "detailsId": "272805%2F103662%2F836740%2F327435%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 614",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T06:52",
+        "track": "1",
+        "detailsId": "277776%2F103854%2F601182%2F207999%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2291",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T06:56",
+        "track": "2",
+        "detailsId": "543402%2F187980%2F745470%2F191601%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2296",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T07:01",
+        "track": "1",
+        "detailsId": "902373%2F307668%2F979928%2F189173%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2097",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T07:13",
+        "track": "25",
+        "detailsId": "866973%2F294658%2F580968%2F1493%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2366",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T07:38",
+        "track": "1",
+        "detailsId": "813996%2F278535%2F997766%2F227551%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 692",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T07:49",
+        "track": "1",
+        "detailsId": "947178%2F328260%2F318104%2F156674%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 993",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T07:56",
+        "track": "2",
+        "detailsId": "278772%2F109503%2F479070%2F146611%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 991",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T08:16",
+        "track": "2",
+        "detailsId": "949074%2F332931%2F695382%2F31333%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 612",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T08:52",
+        "track": "1",
+        "detailsId": "526512%2F186716%2F278610%2F36199%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "EC 217",
+        "type": "EC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T08:56",
+        "track": "2",
+        "detailsId": "710100%2F254437%2F883830%2F205215%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 1296",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T09:03",
+        "track": "1",
+        "detailsId": "707988%2F253322%2F684448%2F106228%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 511",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T09:15",
+        "track": "2",
+        "detailsId": "561423%2F196266%2F532260%2F78989%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 690",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T09:49",
+        "track": "1",
+        "detailsId": "188634%2F75365%2F479762%2F177003%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 267",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T10:02",
+        "track": "2",
+        "detailsId": "837489%2F287349%2F100230%2F229048%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 1298",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T10:03",
+        "track": "1",
+        "detailsId": "155121%2F69041%2F768944%2F332765%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 591",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-05T10:17",
+        "track": "2",
+        "detailsId": "899664%2F310696%2F984916%2F192570%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 616",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T04:39",
+        "track": "1",
+        "detailsId": "289956%2F107997%2F660852%2F233774%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 619",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T04:42",
+        "track": "1",
+        "detailsId": "969597%2F334680%2F231398%2F207500%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 699",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T06:12",
+        "track": "2",
+        "detailsId": "846681%2F294951%2F182758%2F190848%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 614",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T06:49",
+        "track": "1",
+        "detailsId": "663297%2F232358%2F466994%2F12398%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 2366",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T07:38",
+        "track": "1",
+        "detailsId": "120798%2F47469%2F997918%2F458693%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 692",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T07:49",
+        "track": "1",
+        "detailsId": "516747%2F184783%2F693142%2F174322%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "RJX 63",
+        "type": "RJX",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T07:56",
+        "track": "2",
+        "detailsId": "604407%2F221056%2F735140%2F166101%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 612",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T08:52",
+        "track": "1",
+        "detailsId": "993735%2F342457%2F917194%2F127352%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "EC 217",
+        "type": "EC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T08:56",
+        "track": "2",
+        "detailsId": "202995%2F85402%2F434320%2F149495%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 1296",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T09:03",
+        "track": "1",
+        "detailsId": "214713%2F88897%2F112982%2F15080%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 511",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T09:15",
+        "track": "2",
+        "detailsId": "929769%2F319048%2F212002%2F203922%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 690",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T09:49",
+        "track": "1",
+        "detailsId": "927396%2F321619%2F953820%2F167778%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 267",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T10:02",
+        "track": "2",
+        "detailsId": "829200%2F284586%2F710412%2F78806%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 1298",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T10:03",
+        "track": "1",
+        "detailsId": "746049%2F266017%2F106802%2F195282%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 591",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T10:17",
+        "track": "2",
+        "detailsId": "335304%2F122575%2F45288%2F89124%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 610",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T10:48",
+        "track": "1",
+        "detailsId": "541878%2F191784%2F781110%2F209929%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "EC 113",
+        "type": "EC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T10:56",
+        "track": "2",
+        "detailsId": "553740%2F201491%2F37288%2F165936%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "IC 1290",
+        "type": "IC",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T11:03",
+        "track": "1",
+        "detailsId": "512454%2F188131%2F630990%2F144677%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 513",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T11:16",
+        "track": "2",
+        "detailsId": "324126%2F117207%2F479264%2F131590%2F80%3fstation_evaId%3D8000170"
+    },
+    {
+        "name": "ICE 598",
+        "type": "ICE",
+        "boardId": "8000170",
+        "stopId": "8000170",
+        "dateTime": "2021-03-06T11:50",
+        "track": "1",
+        "detailsId": "183033%2F72032%2F661820%2F269899%2F80%3fstation_evaId%3D8000170"
+    }
+]
